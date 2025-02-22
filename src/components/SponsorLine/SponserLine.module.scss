@@ -1,0 +1,8 @@
+.line {
+	display: flex;
+	gap: 95px;
+
+	& img {
+		filter: brightness(0);
+	}
+}
